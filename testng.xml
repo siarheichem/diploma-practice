@@ -1,0 +1,8 @@
+<suite name = "suite1" parallel = "classes" thread-count = "2">
+    <test name = "UI">
+        <classes>
+            <class name = "ui.LoginTest"/>
+            <class name = "ui.AddToCartTest"/>
+        </classes>
+    </test>
+</suite>
